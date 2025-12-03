@@ -6,8 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devang559" alt="devang559" /></a> </p>
 
 - 🌱 I’m currently learning **Spring_Boot**  
-- 📱 I’m interested to **learn more about Android Development**  
-- ⛓️ I also want to **explore and learn Blockchain Development**  
+- 📱 I’m interested to **learn more about Android Development**   
 - 📫 How to reach me **devangsharma14feb@gmail.com**
  **devang_sharma2005@zohomail.in**
 
